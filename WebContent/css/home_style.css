@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+
+
+.homeMenu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.homeMenu li {
+    display: inline;
+}
